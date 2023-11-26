@@ -1,8 +1,8 @@
 ---
 Titulo: "PRIA práctica 4: Visualización avanzada (EVALUABLE)"
-author: "Yorman Diestra Castillo"
-format: html
-editor: visual
+Autor: "Yorman Diestra Castillo"
+Formato: html
+Editor: visual
 ---
 
 ------------------------------------------------------------------------
