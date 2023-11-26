@@ -63,7 +63,7 @@ ggradar(baraja_filtred, grid.min = 1, grid.max = 100)
 
 ------------------------------------------------------------------------
 
-![Radar](https://github.com/Yorman76/Proyecto/Plot_Imag/Radar.png)
+![Radar](https://github.com/Yorman76/Proyecto/assets/150928664/967e636f-d039-4ddd-a99f-7d92f53e83dd)
 
 ------------------------------------------------------------------------
 
@@ -120,7 +120,7 @@ grafico_baraja <- ggplot(baraja_filtred,aes(x = Nombre,y = Magia ,label = Magia)
   grafico_baraja
   
 ```
-![Magia](https://github.com/Yorman76/Proyecto/Plot_Imag/Radar.png)
+![Magia](https://github.com/Yorman76/Proyecto/assets/150928664/9051035b-bd15-4694-b50b-eee8fa406929)
 
 En el caso anterior se hizo para comparar los valores respectos a la **Magia** de cada personaje pero esto se puede hacer tambien para las demas variables *Astucia*,*Coraje*,*Sabiduria*,*Templanza*.
 
