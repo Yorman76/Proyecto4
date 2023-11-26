@@ -63,7 +63,7 @@ ggradar(baraja_filtred, grid.min = 1, grid.max = 100)
 
 ------------------------------------------------------------------------
 
-![Radar](https://github.com/Yorman76/Proyecto/assets/150928664/2a5dcaec-ae67-47ff-999c-b5218bc2e1ee)
+![Radar](https://github.com/Yorman76/Proyecto/Plot_Imag/Radar.png)
 
 ------------------------------------------------------------------------
 
