@@ -120,7 +120,7 @@ grafico_baraja <- ggplot(baraja_filtred,aes(x = Nombre,y = Magia ,label = Magia)
   grafico_baraja
   
 ```
-![Magia](https://github.com/Yorman76/Proyecto/assets/150928664/1cefe8b0-1c14-4b40-a46b-0649c73dfa04)
+![Magia](https://github.com/Yorman76/Proyecto/Plot_Imag/Radar.png)
 
 En el caso anterior se hizo para comparar los valores respectos a la **Magia** de cada personaje pero esto se puede hacer tambien para las demas variables *Astucia*,*Coraje*,*Sabiduria*,*Templanza*.
 
