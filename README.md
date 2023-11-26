@@ -63,6 +63,10 @@ ggradar(baraja_filtred, grid.min = 1, grid.max = 100)
 
 ------------------------------------------------------------------------
 
+![Radar](https://github.com/Yorman76/Proyecto/assets/150928664/2a5dcaec-ae67-47ff-999c-b5218bc2e1ee)
+
+------------------------------------------------------------------------
+
 # GGIMG TOP TRUMPS
 
 Para poder realizar el gráfico indicado en la práctica, es necesario instalar el paquete `ggimg` el cual nos permite crear un gráfico en el cual los puntos de dispersión donde coinciden los ejes *X* y *Y* son reemplazados por imagenes para cada fila correspondiente.
@@ -116,6 +120,7 @@ grafico_baraja <- ggplot(baraja_filtred,aes(x = Nombre,y = Magia ,label = Magia)
   grafico_baraja
   
 ```
+![Magia](https://github.com/Yorman76/Proyecto/assets/150928664/1cefe8b0-1c14-4b40-a46b-0649c73dfa04)
 
 En el caso anterior se hizo para comparar los valores respectos a la **Magia** de cada personaje pero esto se puede hacer tambien para las demas variables *Astucia*,*Coraje*,*Sabiduria*,*Templanza*.
 
@@ -132,6 +137,7 @@ grafico_baraja <- ggplot(baraja_filtred,aes(x = Nombre,y = Astucia ,label = Astu
   grafico_baraja
   
 ```
+![Astucia](https://github.com/Yorman76/Proyecto/assets/150928664/aeacbc2c-bb49-4efb-9213-b2d161d9ad7c)
 
 ### Coraje
 
@@ -146,6 +152,7 @@ grafico_baraja <- ggplot(baraja_filtred,aes(x = Nombre,y = Coraje ,label = Coraj
   grafico_baraja
   
 ```
+![Coraje](https://github.com/Yorman76/Proyecto/assets/150928664/26262233-0489-4ce6-8ed3-1e6c3855c72a)
 
 ### Sabiduria
 
@@ -160,6 +167,7 @@ grafico_baraja <- ggplot(baraja_filtred,aes(x = Nombre,y = Sabiduria ,label = Sa
   grafico_baraja
   
 ```
+![Sabiduria](https://github.com/Yorman76/Proyecto/assets/150928664/e0e0aa36-4f6d-46f1-9567-7644a6bb373b)
 
 ### Templanza
 
@@ -174,3 +182,6 @@ grafico_baraja <- ggplot(baraja_filtred,aes(x = Nombre,y = Templanza ,label = Te
   grafico_baraja
   
 ```
+![Templanza](https://github.com/Yorman76/Proyecto/assets/150928664/ece14a83-ff65-4773-b521-78b144867a06)
+
+
